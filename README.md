@@ -23,7 +23,7 @@ Within my GitHub profile, you'll find personal machine learning projects dedicat
 
 * **Data Visualization:** Seaborn, Matplotlib, Power BI.
 
-* **Machine Learning Modeling:** Scikit-Learn, Classification, Regression, Clustering and Neural Network.
+* **Machine Learning Modeling:** Scikit-Learn, TensorFlow, XGBoost, CatBoost.
 
 
 <!--
