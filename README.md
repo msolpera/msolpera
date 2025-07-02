@@ -13,17 +13,16 @@
 <br>
 I'm a physicist with a Ph.D. and a data scientist with a passion for astronomy 🔭✨ and data analysis 📊📈.
 
-Within my GitHub profile, you'll find personal machine learning projects dedicated to the scientific study of stellar structures, as well as data science projects that solve business problems.
+In this GitHub profile, you’ll find personal machine learning projects focused on the scientific study of stellar structures, alongside data science projects solving real-world business problems.
 
-### Analytics Tools
+### Tools
+* **Development:** Python.
 
 * **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
 
-* **Development:** Python.
+* **Data Visualization:** Seaborn, Matplotlib, Plotly
 
-* **Data Visualization:** Seaborn, Matplotlib, Power BI.
-
-* **Machine Learning Modeling:** Scikit-Learn, TensorFlow, XGBoost, CatBoost.
+* **Machine Learning Modeling:** Scikit-Learn, TensorFlow, XGBoost, CatBoost, ARIMA.
 
 
 <!--
